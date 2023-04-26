@@ -12,6 +12,7 @@
 
 #first we need to install the library virtualenv
 #after installing virtualenv   pip install virtualenv
+#virtualenv name
 #to create an env you have to type virtualenv ai_env
 #to activate ai_env/Scripts/activate
 #so here is a probelm so we are installing in our base environ ment
